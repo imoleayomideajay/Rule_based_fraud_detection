@@ -1,0 +1,8 @@
+A complete end-to-end fraud detection solution built in Python using synthetic transaction data to simulate, detect, and monitor fraudulent financial behavior. 
+
+🚀 Project Objectives
+Detect and flag suspicious or fraudulent transactions in near real-time
+Simulate banking transactions across POS, ATM, Transfer, USSD, and Mobile App channels
+Handle varying fraud prevalence scenarios (1%, 10%, 25%, 48%)
+Build a scoring API using Flask and an interactive monitoring dashboard using Streamlit
+Evaluate detection models using both rule-based and machine learning methods
